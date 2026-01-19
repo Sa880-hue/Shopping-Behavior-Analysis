@@ -12,13 +12,13 @@ This project follows a real-world data analyst workflow, from data cleaning and 
 ### Dataset Description
 
 The dataset contains customer-level shopping information, including:
--- 	**Item Purchased-** Product bought by the customer
--- **Product Category-** Category of the item (Clothing, Accessories, Footwear & Outerwear)
--- **Purchase Amount (USD)-** Amount spend per transaction
-⦁	**Discount Applied-** Whether a discount was used (Yes/No)
-⦁	**Subscription Status-** Whether the customer is a subscriber
-⦁	**Customer Type-** New, Returning, or Loyal customer
-⦁	**Review Rating-** Customer rating for the product
+- **Item Purchased-** Product bought by the customer
+- **Product Category-** Category of the item (Clothing, Accessories, Footwear & Outerwear)
+- **Purchase Amount (USD)-** Amount spend per transaction
+-	**Discount Applied-** Whether a discount was used (Yes/No)
+-	**Subscription Status-** Whether the customer is a subscriber
+-   **Customer Type-** New, Returning, or Loyal customer
+- 	**Review Rating-** Customer rating for the product
 ⦁	**Frequency of Purchases-** How often customers shop
 
 
