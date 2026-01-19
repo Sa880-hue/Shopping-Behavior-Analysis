@@ -19,17 +19,17 @@ The dataset contains customer-level shopping information, including:
 -	**Subscription Status-** Whether the customer is a subscriber
 -   **Customer Type-** New, Returning, or Loyal customer
 - 	**Review Rating-** Customer rating for the product
-⦁	**Frequency of Purchases-** How often customers shop
+-	**Frequency of Purchases-** How often customers shop
 
 
 ### Tools & Technologies Used
 
-⦁	**R** (Data analysis & visualization)
-⦁	**RStudio** (Development environment)
-⦁	**ggplot2** (Data visualization)
-⦁	**dplyr** (Data manipulation)
-⦁	**Excel** (Initial inspection and cleaning)
-⦁	**GitHub** (Version control and project hosting)
+-	**R** (Data analysis & visualization)
+-	**RStudio** (Development environment)
+-	**ggplot2** (Data visualization)
+-	**dplyr** (Data manipulation)
+-	**Excel** (Initial inspection and cleaning)
+-	**GitHub** (Version control and project hosting)
 
 
 ### Key Analyses & Visualizations
